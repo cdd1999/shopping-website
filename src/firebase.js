@@ -1,6 +1,6 @@
 import firebase from "firebase";
 const firebaseConfig = {
-  apiKey: "REDACT",
+  apiKey: "AIzaSyBKgw9zn2UgXGdCkSm9F7r3iy9lwZHwCLI",
   authDomain: "challenge-cc0c3.firebaseapp.com",
   projectId: "challenge-cc0c3",
   storageBucket: "challenge-cc0c3.appspot.com",
